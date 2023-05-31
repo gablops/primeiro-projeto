@@ -1,0 +1,15 @@
+{
+  "name": "site-drip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "iniciar-cors": "node cors-anywhere.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
